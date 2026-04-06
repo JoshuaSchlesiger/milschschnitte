@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate application developer in the field of: C#, PHP, JAVA, HTML, CSS, JS and Assembly</h3>
+<h3 align="center">A passionate application developer in the field of: PHP, JAVA, HTML, CSS, JS and Assembly</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dochsergeanttv&label=Profile%20views&color=0e75b6&style=flat" alt="dochsergeanttv" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoshuaSchlesiger](https://github.com/JoshuaSchlesiger)
 
